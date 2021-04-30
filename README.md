@@ -1,8 +1,8 @@
-# Belongs To Lab
+# Object Relationships: Belongs To Lab
 
-## Objectives
+## Learning Goals
 
-* Write classes that are related via the "belongs to" relationship. 
+* Write classes that are related via the "belongs to" relationship
 
 ## Instructions
 
@@ -22,6 +22,3 @@ song.artist.name
 post.author.name
   # => "Hillary"
 ```
-
-
-
